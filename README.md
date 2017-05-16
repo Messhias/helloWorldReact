@@ -21,3 +21,10 @@ Compile
 ```
 npm run compile
 ```
+
+Run
+---
+ 
+```
+npm start
+```
